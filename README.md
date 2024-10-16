@@ -11,8 +11,8 @@ This is a one-page simple front-end project.
 
 ### Features
 
-- Fully Responsive: Viewers are able to view the website on different device sizes, elements stack differently on different device sizes. 
-- Navbar to Sections: Visitors can click on Navbar items and it brings them to the relevant section of the website. 
+- Fully Responsive Design: The website adapts seamlessly to different screen sizes, ensuring an optimal viewing experience on mobile, tablet, and desktop devices. Elements dynamically adjust and stack based on the device.
+- Smooth Navigation: The navigation bar is linked to key sections of the page, allowing visitors to click and jump directly to the relevant content for a smooth browsing experience. 
 
 ### Screenshot
 
